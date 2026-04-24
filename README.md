@@ -26,5 +26,3 @@ A high-density, auto-populating health monitoring table for Z-Wave networks in H
 | Legacy Z-Wave (Deprecated) | ❌ Not Supported |
 | OpenZWave (Deprecated) | ❌ Not Supported |
 
-## Screenshots
-*(Add your screenshot here)*
