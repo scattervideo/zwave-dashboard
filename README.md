@@ -29,4 +29,4 @@ A high-density, auto-populating health monitoring table for Z-Wave networks in H
 ## Data Visibility
 Shows Zwave ID number for the device, battery level, status (awake, sleeping, dead) and last seen
 
-https://github.com/scattervideo/zwave-dashboard/blob/main/z-wave%20dashboard%20card.png
+![Z-Wave Dashboard Card](https://github.com/scattervideo/zwave-dashboard/raw/main/z-wave%20dashboard%20card.png)
