@@ -26,3 +26,5 @@ A high-density, auto-populating health monitoring table for Z-Wave networks in H
 | Legacy Z-Wave (Deprecated) | ❌ Not Supported |
 | OpenZWave (Deprecated) | ❌ Not Supported |
 
+## Data Visibility
+Shows Zwave ID number for the device, battery level, status (awake, sleeping, dead) and last seen
